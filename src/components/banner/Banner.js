@@ -1,6 +1,5 @@
 import React from "react";
 import { Button } from "react-bootstrap";
-// import MenuBar from "../MenuBar/MenuBar";
 import "./Banner.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
