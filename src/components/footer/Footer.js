@@ -16,7 +16,7 @@ const Footer = () => {
         <div className="mb-5 flex-center">
         <div className="icons-container d-flex text-center ">
                   
-                 
+
                   
                 </div>
         </div>
